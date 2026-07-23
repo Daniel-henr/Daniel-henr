@@ -4,8 +4,6 @@
 
 ![Gold_D Roger](https://github.com/Daniel-henr/Daniel-henr/assets/104326044/ec1e2668-88f0-477d-aa9b-baca9d5fb88e)
 
-![Daniel-henr GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-henr&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-henr&layout=compact&theme=github_dark)
 
 ## Minhas habilidades em tecnologias em que sou especializado. 💻
 
